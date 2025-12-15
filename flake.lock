@@ -58,15 +58,14 @@
     "hashes": {
       "flake": false,
       "locked": {
-        "lastModified": 1,
-        "narHash": "sha256-kOxU2EO1dYqHdStIt5ymYZyG/tBTqef0w5kNExj1toI=",
         "path": "./hashes.nix",
         "type": "path"
       },
       "original": {
         "path": "./hashes.nix",
         "type": "path"
-      }
+      },
+      "parent": []
     },
     "nixpkgs": {
       "locked": {

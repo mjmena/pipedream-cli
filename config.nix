@@ -1,7 +1,7 @@
 {
   # Get new version via:
   # curl https://cli.pipedream.com/LATEST_VERSION 2>/dev/null
-  version = "0.3.3";
+  version = "0.4.3";
   # Supported systems can be found here:
   # https://cli.pipedream.com/install
   supportedSystems = [
